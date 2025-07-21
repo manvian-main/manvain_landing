@@ -161,7 +161,7 @@ const Testimonial = () => {
 			<div style={{ position: 'relative', minHeight: 500 }}>
 				<div className="new-testimonial-background" style={{ position: 'absolute', inset: 0, zIndex: 0 }}>
 					<video
-						src="/background.mp4"
+						src="https://mabs777.s3.ap-south-1.amazonaws.com/background.mp4"
 						autoPlay
 						loop
 						muted
