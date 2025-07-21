@@ -1,0 +1,8 @@
+/*************  ✨ Windsurf Command ⭐  *************/
+# Ignore large files
+
+
+node_modules/
+package-lock.json
+/*******  d08fec1e-a72a-44cf-8a04-58ad62dfb3c8  *******/
+.env
